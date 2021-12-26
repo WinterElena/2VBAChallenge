@@ -9,9 +9,9 @@ We will analyze other stock and DAQO utilizing an Excel file with stock data; ut
 ## Analysis and Challenges
 Steve was wise to utilize and ask us to help him analyze with VBA; automating with VBA reduces the chance of accident and errors in data entry.  VBA also allows for the code to be reused with any stock review data set.  However, the challenges of using VBA is the detail of creating the code initially.  If you have a typo or aren't utilizing the code correctly, it won't work.  It's a challenge to overcome the DEBUG errors that may arise as you work with VBA to get your analysis to work.
 
-### Using images and examples of your code, compare the stock performance between 2017 and 2018.  As well as the execution times of the original script and the refractored script.
 When reviewing the stock analysis performed by utilizing VBA on the Excel file provided by Steve, virtually all of the stock examples decreased in value from 2017 to 2018.  The marked exception is stock RUN. Steve should advise his parents to run and invest in this stock as it saw an increase of 78.5% in the last year while DAQO softserved up a decline of 262% in a years' time!
-
+![A2017](resources/Analysis 2017.png)![A2018](resources/Analysis 2018.png)
+![E2017](resources/Execution time 2017.png)![E2018](resources/Execution time 2018.png)
 
 ## Summary:  
 When considering advantages and disadvantages of refractoring code, I think that one advantage is that you're not starting from scratch.  You're able to take the work that someone else has completed and build upon that- the whole not 'recreating the wheel' premise. But what goes along with that is the caution that you may not know who wrote that code very well so you need to be cautious when refractoring code.  Cutting/ pasting is extremely dangerous, you should always take the time to retype out the code and double check the syntax. 
