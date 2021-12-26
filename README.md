@@ -10,7 +10,7 @@ We will analyze other stock and DAQO utilizing an Excel file with stock data; ut
 Steve was wise to utilize and ask us to help him analyze with VBA; automating with VBA reduces the chance of accident and errors in data entry.  VBA also allows for the code to be reused with any stock review data set.  However, the challenges of using VBA is the detail of creating the code initially.  If you have a typo or aren't utilizing the code correctly, it won't work.  It's a challenge to overcome the DEBUG errors that may arise as you work with VBA to get your analysis to work.
 
 When reviewing the stock analysis performed by utilizing VBA on the Excel file provided by Steve, virtually all of the stock examples decreased in value from 2017 to 2018.  The marked exception is stock RUN. Steve should advise his parents to run and invest in this stock as it saw an increase of 78.5% in the last year while DAQO softserved up a decline of 262% in a years' time!
-![Analysis2017](images/Analysis2017.PNG)![Analysis2018](images/Analysis2018.PNG)
+![Analysis20172018](images/Analysis20172018.PNG)
 
 ![Etime2017](images/Etime2017.PNG)![Etime2018](images/Etime2018.PNG)
 
